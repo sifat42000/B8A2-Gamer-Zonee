@@ -1,0 +1,209 @@
+.gamer{
+    background: var(--linear, linear-gradient(90deg, #FF42A5 0%, #FF42A5 100%));
+background-clip: text;
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+font-family: Work Sans;
+font-size: 24px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+position: relative;
+left: 170px;
+top: -45px;
+}
+.img{
+    height: 18px;
+    width: 45px;
+    position: relative;
+    top: 15px;
+    left: 117px;
+}
+.img-2{
+    position: relative;
+    top: 3px;
+    height: 20px;
+    width: 28px;
+}
+.img-3{
+    position: relative;
+    top: 8px;
+    height: 32px;
+    width: 30px;
+}
+.img-4{
+    height: 460px;
+    width: 500px;
+    position: relative;
+    left: 350px;
+}
+.img-5{
+    height: 400px;
+    width: 600px;
+    position: relative;
+    left: 65px;
+    top: 45px;
+
+}
+.r-side{
+    color: #3C354F;
+text-align: center;
+font-family: Work Sans;
+font-size: 18px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+text-decoration: none;
+margin-right: 25px;
+}
+#ri-side{
+    border-radius: 0px;
+background: rgba(11, 2, 35, 0.10);
+width: 262px;
+height: 56px;
+flex-shrink: 0;
+}
+.container{
+    display: flex;
+}
+.child-2{
+    position: relative;
+    left: 700px;
+}
+.baby-1{
+    color: #0B0223;
+font-family: Work Sans;
+font-size: 34px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+text-transform: uppercase;
+position: relative;
+top: 87px;
+}
+.baby-2{
+    background: linear-gradient(180deg, #F948B2 0%, #8758F1 100%);
+background-clip: text;
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+font-family: Work Sans;
+font-size: 66px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+text-transform: uppercase;
+position: relative;
+top: 34px;
+}
+.baby-3{
+    color: #534C64;
+font-family: Work Sans;
+font-size: 17px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+text-transform: lowercase;
+}
+.button-1{
+    border-radius: 48px;
+background: var(--linear, linear-gradient(90deg, #FF42A5 0%, #FF42A5 100%));
+color: #FFF;
+font-family: Work Sans;
+font-size: 20px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+text-transform: uppercase;
+margin-right: 10px;
+}
+.button-2{
+    border-radius: 48px;
+background: #4EC5F7;
+color: #FFF;
+font-family: Work Sans;
+font-size: 20px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+text-transform: uppercase;
+}
+.main-container{
+    display: flex;
+}
+.small-container{
+    position: relative;
+    left: 120px;
+}
+.father{
+    display: flex;
+
+}
+.childd-1{
+
+}
+.childd-2{
+    position: relative;
+    left: 110px;
+
+}
+.babyy-1{
+    background: linear-gradient(180deg, #F948B2 0%, #8758F1 100%);
+background-clip: text;
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+font-family: Work Sans;
+font-size: 35px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+position: relative;
+left: 190px;
+top: 20px;
+
+}
+.babyy-2{
+    color: #534C64;
+font-family: Work Sans;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px; /* 166.667% */
+;
+}
+.babyy-3{
+    color: #534C64;
+font-family: Work Sans;
+font-size: 18px;
+font-style: normal;
+font-weight: 500;
+line-height: 45px; /* 187.5% */
+position: relative;
+left: 300px;
+
+}
+.baby-4{
+    color: #534C64;
+font-family: Work Sans;
+font-size: 22px;
+font-style: normal;
+font-weight: 700;
+line-height: 45px;
+position: relative;
+left: 100px;
+top: -36px;
+}
+.button-3{
+    border-radius: 40px;
+background: var(--linear, linear-gradient(90deg, #FF42A5 0%, #FF42A5 100%));
+color: #FFF;
+font-family: Work Sans;
+font-size: 20px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+text-transform: uppercase;
+position: relative;
+left: 250px;
+
+}
+
