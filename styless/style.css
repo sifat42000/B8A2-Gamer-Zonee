@@ -467,6 +467,10 @@ line-height: normal;
     position: relative;
     left: 10px;
 }
+#last-imgs{
+    position: relative;
+    right: 20px;
+}
 .h4-tagg{
     background: linear-gradient(90deg, #FF42A5 0%, #FF42A5 100%);
 background-clip: text;
